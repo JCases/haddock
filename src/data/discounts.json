@@ -1,0 +1,31 @@
+[
+  {
+    "type": "PRODUCT",
+    "subtype": "FREE",
+    "name": "2x1 promotion",
+    "products": [
+      12
+    ],
+    "priority": 1,
+    "promotion": 0
+  },
+  {
+    "type": "PRODUCT",
+    "subtype": "PACK",
+    "name": "Menu pack promotion",
+    "products": [
+      12,
+      21,
+      37
+    ],
+    "priority": 0,
+    "promotion": 14.00
+  },
+  {
+    "type": "ORDER",
+    "subtype": "DISCOUNT",
+    "name": "Spend 20 to save 5",
+    "required": 20.00,
+    "promotion": 5.00
+  }
+]
